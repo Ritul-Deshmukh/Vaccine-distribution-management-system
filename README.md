@@ -3,7 +3,9 @@
 # Dependencies
 
 NPM: https://nodejs.org
+
 Mongodb: https://www.mongodb.com/try/download/community
+
 Nodemon: npm i nodemon
 
 
@@ -29,6 +31,6 @@ npm install
 Run nodemon server.js
 
 ## Step 5
-On another terminal run mongo
+On another terminal run mongod
 
 Open API URL on [http://localhost:4000/students](http://localhost:4000/students) to view it in the browser.
