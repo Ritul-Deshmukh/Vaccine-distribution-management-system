@@ -1,0 +1,21 @@
+.button1 {
+    background-color: #555555;;
+    color: rgb(239, 243, 243);
+    padding: 10px 24px;;
+    margin-left: 500px;
+    margin-bottom: 100px;
+}
+
+.not-found{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(248, 247, 244);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0%;
+    margin-left: 0%;
+    left: 0%;
+}
